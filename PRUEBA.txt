@@ -7,6 +7,7 @@ colocar el mensaje (commit)
 en el recuadro gris
 segundo paso, darle al check arriba.
 tercer paso, darle a los "..." y buscar push
+algun comentario
 
 
 
