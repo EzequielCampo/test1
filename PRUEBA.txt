@@ -1,4 +1,4 @@
-hola 
+
 El punto que aparece al guardar no aparece
 algo en la linea
 Paso 0: guardar todos los cambios "Control S"
