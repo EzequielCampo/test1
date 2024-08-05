@@ -1,4 +1,0 @@
-### Extensiones de Visual Studio Code
-hola
-
-**hola¨**
